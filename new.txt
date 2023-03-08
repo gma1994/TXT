@@ -1,0 +1,4 @@
+"fio": "Gulaliyev Mustaqim Amrah oglu",
+               "age": "29",
+               "pets": "not",
+               "salary": "1000 $"
